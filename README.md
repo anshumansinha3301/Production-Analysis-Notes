@@ -71,7 +71,7 @@ Break-even analysis is a financial assessment tool that helps businesses determi
 
 3. **Sales Price per Unit**: This is the price at which each unit of product is sold. It is a crucial factor in determining how many units need to be sold to reach the break-even point.
 
-## The Break-Even Formula
+# The Break-Even Formula
 
 The formula for calculating the break-even point in units is:
 
@@ -113,7 +113,3 @@ Break-even analysis highlights the relationship between costs and revenues, enab
 
 In conclusion, break-even analysis serves as a fundamental tool for businesses seeking clarity on their financial operations. By understanding the dynamics between fixed costs, variable costs, and sales prices, companies can make informed decisions that drive profitability and sustainability in an ever-evolving market landscape.
 
-Citations:
-[1] https://www.vedantu.com/commerce/break-even-analysis
-[2] https://okcredit.in/blog/what-is-break-even-analysis/
-[3] https://intellipaat.com/blog/break-even-analysis-in-economics/
